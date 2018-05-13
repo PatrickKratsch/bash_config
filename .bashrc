@@ -2,8 +2,7 @@
 # The original version is saved in .bash_profile.pysave
 export PATH="/Library/Frameworks/Python.framework/Versions/3.6/bin:$PATH"
 
-
-# MacPorts Installer addition on 2017-12-26_at_21:33:37: adding an appropriate PAT$
+# MacPorts Installer addition on 2017-12-26_at_21:33:37: adding an appropriate PATH$
 export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
 # Finished adapting your PATH environment variable for use with MacPorts.
 
